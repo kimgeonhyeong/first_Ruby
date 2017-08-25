@@ -1,0 +1,10 @@
+$light-black: #000000;
+$navbar-default-color: $light-black;
+$navbar-default-bg: #00F0FF;
+$navbar-default-link-color: black;
+$navbar-default-link-active-color: $light-black;
+$navbar-default-link-hover-color: white;
+$navbar-default-link-hover-bg: black;
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
